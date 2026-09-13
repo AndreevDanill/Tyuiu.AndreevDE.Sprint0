@@ -1,3 +1,6 @@
 <Solution>
   <Folder Name="/Task0/" />
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.AndreevDE.Sprint0.Task1.V0/Tyuiu.AndreevDE.Sprint0.Task1.V0.csproj" Id="3efd5ff9-88e3-4316-9547-2703059c0f3f" />
+  </Folder>
 </Solution>
