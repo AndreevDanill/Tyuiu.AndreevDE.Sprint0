@@ -3,4 +3,9 @@
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.AndreevDE.Sprint0.Task1.V0/Tyuiu.AndreevDE.Sprint0.Task1.V0.csproj" Id="3efd5ff9-88e3-4316-9547-2703059c0f3f" />
   </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.AndreevDE.Sprint0.Task2.V0.lib/Tyuiu.AndreevDE.Sprint0.Task2.V0.lib.csproj" Id="7dbc0a8b-9fe4-409a-a340-e4efff2af797" />
+    <Project Path="Tyuiu.AndreevDE.Sprint0.Task2.V0.Test/Tyuiu.AndreevDE.Sprint0.Task2.V0.Test.csproj" Id="6d9e7f39-83b3-49ae-8e2e-0b596e4edd8b" />
+    <Project Path="Tyuiu.AndreevDE.Sprint0.Task2.V0/Tyuiu.AndreevDE.Sprint0.Task2.V0.csproj" Id="e80f1407-1dbf-4121-a37e-a2f54c0b5766" />
+  </Folder>
 </Solution>
