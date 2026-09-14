@@ -5,6 +5,11 @@
     <Project Path="Tyuiu.AndreevDE.Sprint0.Task3.V0.Test/Tyuiu.AndreevDE.Sprint0.Task3.V0.Test.csproj" Id="0855da6e-6b69-4f87-add9-91a1b684a2d8" />
     <Project Path="Tyuiu.AndreevDE.Sprint0.Task3.V0/Tyuiu.AndreevDE.Sprint0.Task3.V0.csproj" Id="4b62dc89-de5d-419b-9af5-c689605e8b43" />
   </Folder>
+  <Folder Name="/Task0/Task4/">
+    <Project Path="Tyuiu.AndreevDE.Sprint0.Task4.V0.Lib/Tyuiu.AndreevDE.Sprint0.Task4.V0.Lib.csproj" Id="c76860c7-d3b4-4d51-bc82-0d7218ac6c7a" />
+    <Project Path="Tyuiu.AndreevDE.Sprint0.Task4.V0.Test/Tyuiu.AndreevDE.Sprint0.Task4.V0.Test.csproj" Id="f44e270b-2b7f-4dde-bcda-033fbf53bb08" />
+    <Project Path="Tyuiu.AndreevDE.Sprint0.Task4.V0/Tyuiu.AndreevDE.Sprint0.Task4.V0.csproj" Id="6e5443b3-9efb-4f69-b11e-0dec797b0534" />
+  </Folder>
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.AndreevDE.Sprint0.Task1.V0/Tyuiu.AndreevDE.Sprint0.Task1.V0.csproj" Id="3efd5ff9-88e3-4316-9547-2703059c0f3f" />
   </Folder>
