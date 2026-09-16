@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tyuiu.AndreevDE.Sprint0.Task4.V0.Lib
+namespace Tyuiu.AndreevDE.Sprint0.Task5.V0.Lib
 {
     public class DataService
     {
         public static int Addition(int a, int b)
-        { 
+        {
             return a + b;
         }
         public static int Subtraction(int a, int b)
@@ -22,7 +22,15 @@ namespace Tyuiu.AndreevDE.Sprint0.Task4.V0.Lib
         }
         public static double Division(int a, int b)
         {
-            return a / b;
+            if (b == 0)
+            {
+                Console.WriteLine("Переменная b = {0} на ноль делить нельзя", b);
+                return -1;
+            }
+            else
+            {
+                return a / b;
+            }
         }
     }
 }
